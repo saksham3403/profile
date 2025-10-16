@@ -21,7 +21,7 @@ const Hero: React.FC = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a 
-              href="www.linkedin.com/in/saksham-singh-ba591638a"
+              href="resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-cyan-500 text-white font-semibold px-8 py-3 rounded-lg hover:bg-cyan-600 transition-all duration-300 shadow-lg shadow-cyan-500/20 flex items-center justify-center gap-2"
